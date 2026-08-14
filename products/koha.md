@@ -7,26 +7,26 @@ releasePolicyLink: https://wiki.koha-community.org/wiki/Koha_Versioning
 
 releases:
   - releaseCycle: "26.05"
-    releaseDate: 2026-08-06
+    releaseDate: 2026-08-10
     eol: 2027-11-01
     latest: "26.05.02-1"
     link: https://koha-community.org/koha-26-05-02-released/
 
   - releaseCycle: "25.11"
-    releaseDate: 2026-08-07
+    releaseDate: 2026-08-10
     eol: 2027-05-01
     latest: "25.11.07-1"
     link: https://koha-community.org/koha-25-11-07-released/
 
   - releaseCycle: "25.05"
-    releaseDate: 2026-08-06
+    releaseDate: 2026-08-10
     eol: 2026-11-01
     latest: "25.05.13-1"
     link: https://koha-community.org/koha-25-05-13-released/
 
   - releaseCycle: "24.11"
     lts: true
-    releaseDate: 2026-08-07
+    releaseDate: 2026-08-10
     eol: 2028-05-01
     latest: "24.11.18-1"
     link: https://koha-community.org/koha-24-11-18-released/
